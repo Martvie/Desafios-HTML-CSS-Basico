@@ -1,0 +1,12 @@
+p {
+    margin: 40px; /*Como a espaço ENTRE os parágrafos deve ser de 40px, por minha interpretação a margin de cada um deveria ser 20, no entanto visualmente não se pare e com o exemplo*/
+    padding: 20px;
+}
+
+.normal {
+    background-color: #f5f5f5;
+}
+
+.destacado {
+    background-color: #f0cce2;
+}
