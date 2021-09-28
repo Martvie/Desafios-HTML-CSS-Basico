@@ -1,14 +1,15 @@
+.tabela-casa, .tabela-moda{
+    color: #FFFFFF;
+}
+
 .tabela-casa td, .tabela-moda td{
-    color: #ffffff;
     background-color: #424250;
 }
 
 .tabela-moda th {
-    color: #FFFFFF;
     background-color: #BB86FC;
 }
 
 .tabela-casa th {
-    color: #FFFFFF;
     background-color: #00C4B4;
 }
